@@ -1,1 +1,2 @@
 Mobile App for OpenCode and more
+# avoid re-reading the config on every call
